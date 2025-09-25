@@ -12,6 +12,7 @@ function App() {
         <h1>Helllo Muskan</h1>
         <h1>Hii India</h1>
         <h1>He</h1>
+        <h2>Welcome</h2>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
